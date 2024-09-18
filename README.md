@@ -3,8 +3,8 @@
 ## Project Overview
 
 AtliQ Hardware has been experiencing rapid growth in recent years and has decided to implement data analytics using Power BI for the first time. The aim is to gain a competitive edge in the market and drive data-driven decision-making across the company. This project is designed to provide insights to stakeholders in various areas such as finance, sales, marketing, and supply chain, helping them make informed decisions and surpass competitors.
-[Link to Interactive Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzA1ZGJjNzgtM2NlZi00OWY1LWIwM2QtMTMzMWJmZTk5ODQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+[Link to Interactive Dashboards](https://app.powerbi.com/view?r=eyJrIjoiYzA1ZGJjNzgtM2NlZi00OWY1LWIwM2QtMTMzMWJmZTk5ODQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906)
 ## Tech stacks
 
 - SQL
@@ -155,7 +155,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="" class="center">
+![Model View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Data_model.png)
 
 ### Dashboard designing
 
@@ -173,3 +173,34 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Products
 - Support
+
+## Info Page
+
+![Info Page](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Info%20Page_BI360.png)
+
+## Finance View
+
+![Finace View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Finance_View_BI360.png)
+## Sales View
+
+![Sales View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Sales_View_BI360.png)
+
+## Marketing View
+
+![Marketing View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Marketing_View_BI360.png)
+
+## Supply chain View
+
+![Supply chain View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Supplychain_View_BI360.png)
+
+## Executive View
+
+![Executive View](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Executive_View_BI360.png)
+
+## Support Page
+
+![Support Page](https://github.com/SannareddyHemalatha/Business_Insights_360/blob/5ac08a4465f673aa7898b2cce5e6aebcbe5820ac/Images/Support%20Page_BI360.png)
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the analysis. Further it will help in answering n number of "why" questions based on the situations.
